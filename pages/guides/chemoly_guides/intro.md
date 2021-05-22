@@ -1,232 +1,204 @@
-# Introduction to Chemistry Olympiads
+![](https://i.imgur.com/XvW5HDs.png)
+
+# Preamble
 ---
-> Written by fizzest (Kwanwoo Park), with consideration of Alec Zhu's (IChO '20 Gold) advice document
+Chemistry can be intimidating. As a subject that is a combination of physical sciences, life sciences, and some mathematics, its position as a "central science" makes Competitive Chemistry even more intimidating. 
 
-Competitive chemistry is a competition that puts much more emphasis on your problem solving skills than your depth of knowledge (in comparison to academic Chemistry). That being said, a strong foundation of chemistry knowledge and a lot of practice is necessary to be successful in this event.
+Surprisingly, being proficient at competitive Chemistry doesn't require you to be a genius. The amount of fundamental knowledge required in the field is much less in comparison to other Science Olympiads, and practice is more than enough to find success in your national exam, while still being a very enjoyable experience.
 
-In this guide, we will be going over the competition itself, how to study for it, some traps you should avoid, and how to practice!
+While this guide was written for the general public in mind, we do have specific guides that may be applicable to your situation. After fully reading this guide, we recommend you check them out.
 
-## About the USNCO
+There's no time to waste. Let's get started!
+
+# Part I: Before getting into Competitive Chemistry
 ---
-![enter image description here](https://i.imgur.com/zdAuxuW.png)   
+Before you start, let's briefly talk about your **mindset** towards the competition. It might seem really silly, but I assure you, this is something you should put a considerable amount of thought on. There are some misconceptions and traps that a lot of people fall into and wonder where they went wrong, so we'll address them here, even before we talk about the competition itself.
 
-The USNCO (United States National Chemistry Olympiad) is an exam that selects students to participate in the International Chemistry Olympiad. It is a multi-round competition with a local exam and a three-part national exam. 
-
-The local exam is a 60 question, all multiple choice exam that covers the very basics of chemistry. The difficulty of the exam is slightly above AP Chemistry level. You are given 110 minutes for the exam.
-
-If more than two students score above a certain cutline, the top two highest scoring students from each school qualify for the next round, which is known as the national exam. 
-
-The national exam is composed of three parts:
-> **Part I** is also a 60 question, all multiple choice exam that is similar in format to the local exam, but much harder and trickier. You are given 20 minutes less than the local exam; 90 minutes.  
->  **Part II** is a 8 question, free response exam. It covers the same topics as Part I. You are given 105 minutes.  
->  **Part III** is a laboratory practical exam that tests if you can properly carry out experiments and draw conclusions from your experimental work. You are given 90 minutes for this exam as well.  
-
-If you do well on the national exam, you can earn the following achievements:
-> **Honors** - Top 150 in the national exam, only judging from Part I scores.
-> **High Honors** - Top 50 in the national exam, judging from Part I + Part II scores.
-> **Camp** - Top 20 in the national exam, you are invited to a camp held every June. This is where you compete for spots in the IChO team. All three parts are considered for Camp.
-# Things to Note Before Preparation
+## Academic vs. Competitive
 ---
-## Very Important Things to Be Aware About
----
-Before we get into study tactics, there are certain facts that you should always be aware of:
+One of the biggest traps that newcomers fall for is the **inability to differentiate** the "academic" setting with the "competitive" setting. There are many meanings behind this, so let's talk about each one in detail.
 
- - You need both high accuracy and speed to be successful, but accuracy is more important than speed.
- - Every question on the Part I exam is worth the same.
- - Competitive chemistry is comparable to puzzles or video games.
- - Under all circumstances, you should never approach competitive chemistry like you would for academic chemistry (chemistry classes you take at school).
+An "academic" test that you take in school is very different from a "competitive" test you'd take in Chemistry Olympiad. Not only is the latter much more difficult, but they also heavily differ in terms of their **goal**. While the former tests on your **mastery** of the subject, the latter tests the extent of your ability to apply fundamental knowledge through **problem-solving**. 
 
-If some of these things did not make sense to you, don't worry; I'll explain them one by one in much more detail.
+As these two totally different tests have different goals, you should **not prepare these tests the same way**. While you'd spend around three weeks at maximum preparing for an "academic" exam, the same is not true for the latter. On average, you'd be spending up to **nine months** preparing for your competition. 
 
-## Competitive Chemistry vs. Academic Chemistry
----
-I'll be saying this a lot, but **competitive chemistry and academic chemistry are two completely different things**. 
+Now that we've got that clear, here are all of the traps you should avoid.
 
-A common mistake made by many participants is that learning the college chemistry curriculum will aid them in chemistry Olympiad: going out of their way to study physical chemistry and inorganic chemistry textbooks[^1].
+### 1. Do NOT overwork yourself
+Pushing yourself is great and all, but overworking is very different from "pushing yourself". When people (and I) mean "push yourself", we mean it in a way that you should try problems that are slightly above your comfort zone, so that you can learn and improve. We do **not** mean you should overwork yourself and continuously cram three chapters of Klein's Organic chemistry reading, two national practice exams, and four chapters of Atkins' Chemical Principles every day. 
 
-Personally, I believe that competitive chemistry focuses **much more** on **problem solving**, rather than your knowledge of advanced chemistry. This also means that you aren't expected to know every trivial reaction or property. You aren't expected to read inorganic chemistry textbooks or any undergraduate textbooks with the exception of the fundamentals.
+Not only will you burn yourself out and hate yourself for getting into this mess, but it's simply not worth it because: 1) People who actually enjoy competitive Chemistry do much better than people who don't and 2) if you aim for completion instead of actually "understanding" what you learned, it won't matter at all.[^1]
 
-Here's an analogy: consider your chemistry knowledge as tools. If your fundamental chemistry knowledge is comparable to an all-purpose common tool, such as a screwdriver, then your knowledge of advanced chemistry (such as inorganic chemistry) would be the hard-to-use tools that are very situational.
+Competitive Chemistry should be a fun experience, not a painful one. Do yourself a favor and spread your work so that it's manageable. Take a lot of breaks, exercise, eat well, whatever makes you happy.
 
-## Appeal of Competitive Chemistry
+### 2. Do NOT overplan
+Overworking and Overplanning are the two sins of Competitive Science. Overplanning is the act of planning what you'd do in the future (e.g. in 3 weeks). I and many others have tried out this strategy in the past (especially during summer breaks) and it has caused more harm than anything. Please keep in mind that humans can't foresee the future, and you never know if some concept will cause you trouble or get hit by a car. It is **absolutely crucial** that you don't overplan, as once you fall behind, you'll never be able to catch up and end up being demotivated. 
 
-Earlier, I claimed that competitive chemistry is very similar to other activities like puzzles or video games. Let me explain why:
+### 3. Do NOT read college textbooks for Competitive Chemistry
+If Overworking and Overplanning are the two sins of Competitive Science, then reading college textbooks is the grave sin of competitive Chemistry. This is **crucial** advice that everyone tends to ignore, so we'll repeat this many times.
 
-When you start a new game, you normally go through a tutorial to learn about the rules. After absorbing the basics, you start playing the game. You find the game pretty enjoyable and want to get better, so you practice until you reach a point when you think you've reached a limit. You can tackle almost any situation that is given to you, but there are certain specific situations where advanced techniques could come in handy. So to become even better, you start to learn new strategies and advanced techniques that might aid you in certain situations. 
+> **A strong, first-year undergraduate general Chemistry along with Organic Chemistry is all you need to be proficient at Chemistry Olympiads.**
+
+No ifs, buts, or ands. Atkins' _Physical Chemistry_ or Housecroft's _Inorganic Chemistry_ will **not** help you in competitive Chemistry, **at all**. These are college-level courses that are not made for quirky smart high-school students like you[^2], and often require math skills above single-variable calculus. Let me repeat again: 
+
+> **A strong, first-year undergraduate general Chemistry along with Organic Chemistry is all you need to be proficient at Chemistry Olympiads.**
+
+While it is true that advanced topics such as physical chemistry aims to develop a better understanding of our chemical world, most, if not all, Chemistry Olympiads will not test your knowledge on something that can only be found from a physical or inorganic chemistry textbook. You should focus on mastering the **fundamentals**, as they are all you need to be proficient in this competition. 
+
+You'll need a strong foundational knowledge of the fundamentals to utilize what you learn from these advanced topics anyways, so don't bother for now.
+
+> **A strong, first-year undergraduate general Chemistry along with Organic Chemistry is all you need to be proficient at Chemistry Olympiads.**
+
+### 4. Do NOT focus on textbooks
+While preparing an school exam likely consists of doing some textbook problems, competitive Chemistry questions tend to be **much more challenging** than textbook problems (at least, in Chemistry[^3]). While it is completely fine to review your fundamental knowledge through these textbook problems (and you should!), please avoid solving every single exercise and homework problem, as: 1) they'll get boring, 2) you'd be practicing plug-and-chug which is acceptable in an academic setting but **unacceptable** in an Olympiad setting, and 3) you'll be more vulnerable towards falling into deliberate tricks present in some Chemistry Olympiad problems.
+
+### 5. Try to utilize all kinds of resources
+A textbook isn't always the best place to learn, and this is especially true if your Chemistry Olympiad competition has specific "Advanced Topics" present that may be absent from the fundamental knowledge I've addressed multiple times above. 
+
+The best place to learn these topics are through our guides (work-in-progress), online lectures, [ChemGuide](https://www.chemguide.co.uk/), Wikipedia, etc. 
+
+> **Note:** We are working on providing guides, notes, lectures, and practice problems for these "Advanced Topics", so stay tuned :^)
+
+### 6. Don't be afraid
+You know what's more scary than bombing your first exam? Not taking enough practice exams and bombing your real competition. It sucks, so don't do it. 
+
+Once you are comfortable applying your fundamental knowledge to homework problems, you should jump into practicing past exams right away![^4] Unlike your high school exams (where past exams are often private), past exams of Chemistry competitions are publicly available.
+
+### 7. Treat Competitive Chemistry differently 
+My final advice is this: you should (at least try to) enjoy your experience of both preparing for and competing in the Chemistry Olympiad.
+
+In fact, there are more similarities between competitive Chemistry and video games in comparison to competitive Chemistry and academic Chemistry.
+
+**Consider this:** When you start a new game, you normally go through a tutorial to learn about the rules. After absorbing the basics, you start playing the game. You find the game pretty enjoyable and want to get better, so you practice until you reach a point when you think you've reached a limit. You can tackle almost any situation that is given to you, but there are certain specific situations where advanced techniques could come in handy. So to become even better, you start to learn new strategies and advanced techniques that might aid you in certain situations. 
 
 This analogy can be applied to really anything: chess, speed cubing, learning an instrument, learning how to code, Lego, and of course, competitive chemistry!
 
 Make sure to keep this ordering in mind, and take all the time you need until you get the hang of each step of the learning process!
 
-Also, one thing I'd like to mention- Chemistry Olympiads tend to be very different compared to your regular Chemistry test in high school.
+I'd like to emphasize this one last time: **Chemistry Olympiad exams tend to be very different compared to your regular Chemistry test in high school.**
 
-Unlike the chemistry you learn in an academic setting, good questions in Chemistry Olympiads will be challenging but also interesting, requiring you to think and strategize, instead of mindlessly plugging in numbers into equations (which is a strategy that often works at school, but not in competitive chemistry!).
+Unlike the chemistry you learn in an academic setting, competitive Chemistry will be challenging but also interesting, asking problems you've never considered or provide an unique scenario, requiring you to think and strategize. 
 
+I'd also like to emphasize this one last time as well: **People who truly enjoy Chemistry Olympiad tends to do much better than people who don't.**
 
-## Fear
+## Characteristics all Chemistry Olympiads share
+---
+### Rules
+Most rules for the National Chemistry Olympiads in different countries are structured similarly to the International Chemistry Olympiad (IChO). The largest requirement is **age restriction**. If the participant is over 20 years old after the July 1st of the year IChO is held, that individual cannot participate in the IChO. Therefore, it is very common that this restriction also applies to many national Olympiads.
 
-Don't be afraid to try things out! Bombing your first exam is perfectly fine. Bombing your 8th exam is completely fine too. Your rate of improvement will be slow if you only solve easy problems or reading through the fundamentals over and over again. You should always attempt problems **slightly above** your comfort zone to truly challenge yourself.
+Resources that are permitted varies a lot between countries. We highly recommend you conduct your own research on what your country allows, especially with calculator restrictions. The difference between a _graphing calculator_, _scientific calculator_, and _calculators with built in CAS_, and a _four-function calculator_ are significant and we highly recommend you follow their standards. Here are the recommendations for each type:
+> * **Graphing Calculators**: Any variation of TI-84  
+> * **Scientific Calculators**: TI-36X Pro, Casio fx-991EX (ClassWiz)  
 
-# Preparation of Chemistry Olympiads
+If your country permits a graphing calculator, they can be acquired cheaply from the secondhand market. However, many countries (including the United States) only permit scientific calculators and the administration will not allow you to use a graphing calculator.
 
-I justified how competitive chemistry is strikingly similar to puzzles and games above. The three steps you'll take for preparation are:
+### Speed vs. Accuracy
+Besides a fundamental knowledge, the Chemistry Olympiad heavily tests your ability of **solving problems fast** and **solving problems accurately**. Both of these features can be acquired by taking a lot of practice tests (experience) with a set time. As you will often be under a lot of time pressure, it is wise to develop a strategy in terms of time management before taking your national exam.
 
-> 1. Foundation
-> 2. Problem Solving
-> 3. Advanced Knowledge (Optional)
+Here are some tips for developing speed:
+* If you don't think you can tackle a question, skip them for later.
+* You can skip through some "unnecessary steps" in your solution. Make sure anyone who has some knowledge of Chemistry can understand what you're doing, however.  
+* Devise a plan in terms of the order of the questions you will be taking, assuming your national Olympiad has a concrete format.
 
-Advanced topics are completely optional, since although the USNCO doesn't require them, they can be very enjoyable to learn at an appropriate time :^)
+While speed is a necessary component of the national Olympiad, it is highly recommended you work on problem-solving skills **first** rather than speed. You will not perform well if you manage to complete the exam, but make very silly mistakes in the process. Many of the national Olympiads are trying to trick you and fall into traps, so you must practice to avoid them even under high pressure.
 
-## Foundation
+Here are some tips for developing problem-solving:
+* Do **not** rely on the answer key. If you don't give much thought into the question and look at the answer key immediately, you will not develop a very strong intuition of chemistry problem-solving. The best competitors are those who can utilize their experiences to solve different problems, not those who can only replicate the solution.[^5]  
+* Read **the entire problem slowly and carefully**. While it sounds silly, David Morin's word says it best:
+
+> *There's no better way to waste time than to read a problem quickly in an effort to save time. If you miss a piece of the given information, you'll end up just spinning your wheels, trying to solve an unsolvable problem.*
+
+* There are many ways to approach a problem. You can try making **approximations**[^6], **draw a diagram**, **reverse engineer**, etc.
+
+### Mathematics
+Mathematics skills are commonly encountered at the secondary school level, such as:
+> * Solving qudratic equations
+> * Using logarithms and exponentials
+> * Solving system of equations
+> * Basic trigonometry
+> * Basic geometry (Pythagoras' theorem)
+> * Basic statistics (plotting graphs, mean, etc.)
+> * _sometimes_ Integration and Differentiation (if it is included as one of the "Advanced Topics")
+
+Most approximations in Chemistry are made when solving for variables. For instead, it can be very useful in certain scenarios where the Newton-Raphson approximation of solutions to functions apply and save a tremendous amount of time. For example, assuming A is many magnitudes larger than B, we can make the approximation that:
+
+![](https://i.imgur.com/px3hVgW.png)
+
+This is a very simple approximation that is widely used throughout chemistry, but there are more sophisticated approximations such as Taylor series that may be used.
+
+# Part II: Preparation of Chemistry Olympiads
+
+The three steps you should take to prepare for your competition is this:
+
+> 1. Obtain a fundamental understanding of Chemistry
+> 2. Practice problem-solving
+> 3. Advanced Knowledge (Optional)[^7]
+> 4. Profit
+
+## Obtain a fundamental understanding of Chemistry
 There are many great textbooks and resources for learning the fundamentals of chemistry. Which one to use depends on your prior chemistry knowledge. Everyone starts differently; some may already have an appreciable background in chemistry (e.g. took AP Chemistry or have a background in physics), but others may have absolutely zero experience. Either way, I have a recommendation for everyone.
 
 > **NOTE:** You should read whatever your reading at least two times, to ensure you do not have holes in your fundamental knowledge.
 
-**For those with an appreciable physics background**: Chemistry is a field that really only applies physics into molecules and substances, so I think people with an appreciable physics background are the most blessed in competitive chemistry :^)
+### For those with an appreciable physics background:
+ There are four types of forces you learn in physics: strong force, weak force, gravitation, and of course, electromagnetism. 
 
-Some of the topics you'll see in chemistry will be very similar to physics. This includes: thermodynamics, atomic theory, and gas laws. 
+Chemistry is a topic that revolves around the concept of electromagnetic force, and therefore those with an appreciable physics background will likely pick up chemistry much easier than others.
 
-Of course, the content you learned in physics (for these units) is slightly different in chemistry, but you'll still have a head start compared to others!
+In fact, some of the topics you'll see in chemistry will be very similar (or exactly the same) to physics. This includes: thermodynamics, atomic theory, and gas laws. 
 
-The textbook I personally recommend for you is Atkins' Chemical Principles: The Quest for Insight. Anything above 4th edition is perfectly fine to use. Even if you don't have any prior experience with chemistry, the _Fundamentals_ section will provide the basic knowledge of chemistry you'll need.
+Peter Atkins' _Chemical Principles: The Quest for Insight_ is recommended for this group of people. Anything above 4th edition is perfectly fine to use. Even if you don't have any prior experience with chemistry, the _Fundamentals_ section will provide you enough context to get through the textbook.
 
 ![Different editions of Atkins textbooks](https://i.imgur.com/V0pkoxN.png)   
 
 
-**For those with an appreciable chemistry background**: If you took AP/IB Chemistry at school, Atkins' Chemical Principles: The Quest for Insight will be perfectly fine to start with. If you've just finished the course, it might be even possible to skip the _Fundamentals_ section. If you haven't taken a chemistry course in a while, it may be wise to look at the _Fundamentals_ section just as a crash course.
+### For those with an appreciable chemistry background:
+If you took AP/IB Chemistry at school, Atkins' _Chemical Principles: The Quest for Insight_ will be perfectly fine to start with. If you've just finished the course, it might be even possible to skip the _Fundamentals_ section. If you haven't taken a chemistry course in a while, it may be wise to look at the _Fundamentals_ section just as a crash course.
 
 
-**For those who have Chemistry 1 background or do not have a background in Calculus**: If you just took your first year of chemistry in high school, the book above might be a fairly challenging read, especially if you don't know any calculus.
+### For those who have Chemistry 1 background or do not have a background in Calculus:
+If you just took your first year of chemistry in high school, the book above might be a fairly challenging read, especially if you don't know any calculus.
 
-The textbook I personally recommend for you is Zumdahls' *Chemistry*. Anything above 7th edition is perfectly fine to use. It's a much easier read than Atkins (textbook mentioned above), and covers a decent amount of fundamentals (fun fact: my school use this textbook for our AP Chemistry class).
+Zumdahls' *Chemistry* is recommended for this group of people. Anything above 7th edition is perfectly fine to use. It's a much easier read than Atkins (textbook mentioned above), and covers a decent amount of fundamentals.
 
 ![enter image description here](https://i.imgur.com/YxzCPAj.png)   
 
 It is highly recommended that you read Atkins after you complete Zumdahl's *Chemistry* for a stronger foundation!
 
-**For those who do not have a chemistry background**: My advice for you is the same as that for the people who have taken one year of high school general chemistry. I personally recommend you read Zumdahls' *Chemistry*. I'm aware that this might be a difficult read especially if this is your first time studying Chemistry, so Khan Academy is not a bad idea as a supplementary resource.
+### For those who do not have a chemistry background:
+This group of people is recommended to pick up Zumdahls' *Chemistry*. I'm aware that this might be a difficult read especially if this is your first time studying Chemistry, so Khan Academy is not a bad idea as a supplementary resource.
 
-**For those who hate reading textbooks**: With numerous amounts of open educational resources, there are many choices to choose from.
+### For those who hate reading textbooks: 
+With numerous amounts of open educational resources, there are many choices to choose from.
 
-[MIT 5.111](https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/) and UC Irvine's [Open Chemistry course](http://ocw.uci.edu/openchem/openchem.html) are two great choices in my opinion. Although they are not quite enough for a strong foundation, you can use our NAP notes as a supplement to these lectures, or read the relevant sections of Atkin's _Chemical Principles_.
-
+[MIT 5.111](https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/) and UC Irvine's [Open Chemistry course](http://ocw.uci.edu/openchem/openchem.html) are two great choices in my opinion. Although they are not *quite* enough for a strong foundation, you can use our CODSnotes as a supplement to these lectures, or read the relevant sections of Atkin's _Chemical Principles_.
 
 
 ### Taking Notes
 
-Notes are a preference— you should take them if you’re used to taking them. If you do take notes, however, make sure you actually use them for review! If you don’t, the extra time spent on those notes would be meaningless. The [CODSnotes](http://chem.isodn.org/nap) provided by CODS are an alternative to taking notes on Atkin's *Chemical Principles*.  
+Notes are a preference— you should take them if you’re used to taking them. If you do take notes, however, make sure you actually use them for review! If you don’t, the extra time spent on those notes would be meaningless. The [CODSnotes](http://chem.isodn.org/notes) written by myself are an alternative to taking notes on Atkin's *Chemical Principles*.  
 
-### Homework Problems
-The purpose of homework problems is to review your fundamental knowledge. They are introductory problems and are not supposed to be challenging (especially for Atkins. If you like analogies, think of them as the tutorial for a new skill you just learned in a game.) You should avoid solving too many of them, as they can be rather harmful (for example, you don't want to be memorizing how to tackle a question! This is a easy trap to fall into especially if you're solving too many textbook problems).
-
-Again, don't be afraid of trying out challenging problems! You should always try out problems that are slightly higher than your comfort level. You can read more about the dangers of solving too many homework problems in [our FAQs section](http://chem.isodn.org/FAQ).
-
-### Scheduling
-One of the great things about competitive chemistry (compared to academic chemistry) is that you get to choose your own pace, not somebody else[^5]. Since no one is forcing you to study chemistry, competitive chemistry tends to be much more laid back and enjoyable compared to academic chemistry. 
-
-That being said, one of the worst traps to fall into in academic Olympiads is the trap of over-scheduling.
-
-Making a tight schedule is easy, but the same could not be said for following the schedule. Not only will you be pressured to follow a certain pace which makes the experience much less enjoyable, but you'll probably end up having a sub-par learning experience because you're more focused on finishing your close to impossible tasks for the day rather than absorbing the content. Not to mention, the world is unpredictable. Maybe you got hit by a truck and broke both of your legs, and your schedule is now crumbled into pieces by the randomness of society.
-
-Using the game analogy, I don't think people actually schedule their gaming sessions for the next eight weeks... right?
-
-Yeah, don't do this. You'll lose motivation and pleasure of doing competitive chemistry.
 
 ### OK, so I've read Atkins.
-Congratulations! You know more chemistry than 99% of people in the world! Blow up the confetti balloon, give yourself a pat in the back, eat a large slice of cake. 
+Congratulations! You know more chemistry than 99% of people in the world! Give yourself a pat in the back.
 
-Now clean up the confetti on the ground and apply your newfound knowledge into problems!
-
-## Practice
+## Practice problem-solving
 ---
-A great place to practice is the past USNCO local exams. They are very doable with Atkins level knowledge and test your fundamentals very well!
-
-I recommend you begin from 2012, as any test before 2012 is practically useless for preparation of the exam..
-
-### Topics on the USNCO
-From 2012, all USNCO local and national part I exams have a certain format they follow:
-> 1. **Stoichiometry/Solutions** (6): Knowledge of your first-year high school general chemistry is tested.
-> 2. **Descriptive Chemistry** (3~5): Knowledge of flame tests, ion colors, selective precipitation, and trivial chemistry is tested.
-> 3. **Laboratory** (1~3): Human errors, procedures, and lab equipment knowledge is tested.
-> 4. **States of Matter** (6): Knowledge of the three types of matter, phase changes, phase diagrams, IMFs, vapor pressure is tested.
-> 5. **Thermodynamics** (6): Knowledge of thermocycles, enthalpy, entropy, and Gibbs free energy is tested here. Although most questions are calculations, there have always been at least one theoretical question.
-> 6. **Kinetics** (6): Knowledge of half-life, elementary reactions (including pre-equilibrium and SSA), integrated rate laws, energy diagrams, and reaction rates is tested.
-> 7. **Equilibrium** (6): Knowledge of chemical equilibrium (including solubility and acid-base chemistry) is tested.
-> 8. **Redox/Electrochemistry** (6): Knowledge of redox reactions and electrochemistry is tested.
-> 9. **Atoms** (6): Knowledge of Atomic theory and periodicity is tested.
-> 10. **Molecules** (6): Knowledge of bonding and molecular structure is tested.
-> 11. **Organic Chemistry** (5): Knowledge of organic chemistry is tested. All of the questions can be answered with Kleins' _Organic Chemistry_.
-> 12. **Biochemistry** (1): There is always one biochemistry question, but it's probably not worth your time to study them.  
-
-The lack of consistency in the questions asked and the different style compared to the modern USNCO exams make exams from 2011 and before, both local and national, not useful for Olympiad preparation.
-
-In addition, tests older than 2017 aren't great representations of the modern difficulty of the USNCO exams, so it is recommended that you save one or two years between 2017 and 2020 so that you can take them before the actual USNCO exam.
-
-Also, make sure once you're done with an exam, don't start a new one but instead spend some time grading your test and obsessing over what you got wrong. Ask yourself what you were thinking when you were solving the question, what you did wrong, and what you could do to prevent this next time.
-
-### Accuracy and Speed
-Before we talk about test strategies, let's take some time to discuss about one of the important things to consider:
-
-> * You need both high accuracy and speed, but accuracy is more important than speed.
-
-On the USNCO national exam, you are given 90 minutes to solve 60 questions. This requires you to be fast, but fast isn't really meaningful if you are missing easy questions. When you're practicing, you should put much more focus on reading carefully and solving correctly, rather than solving quickly. You will pick up speed as you gain more experience, but getting accurate is difficult if you only think about trying to complete the test in time. 
-
-Let me rephrase this. As you practice, you start to stack up experience. Everyone uses their previous experiences to make judgements on the question they're looking at. If you have a strong foundation on experience, you'll develop good habits and great problem-solving skills, and you'll be able to identity the question quickly and say "oh! This is kind of similar to (Random question) I did some time ago...."
-
-But if you don't practice properly and focus on raw speed, you won't gain anything..
-
-Don't forget: your goal is to **get the most questions right**, not trying to **finish the exam** for now.
-
-**Every question on the USNCO** Part I exam— easy or hard— is **worth the same**. This means that you should try to consistently get all of the easy questions right, while trying your best to get most of the hard questions. If you're making mistakes on easy questions, it's probably an indication that you aren't reading carefully.
-
-tl;dr: Focus on being consistent rather than being fast! You should try your best to get all of the easy questions right and avoid random mistakes. 
-
-### Time Management
-So you're now consistent, but you go way past 90 minutes. This is obviously going to be a problem on the actual exam, but there are ways you can easily improve your speed.
-
-Instead of focusing on trying to solve problems faster, you should try to find a **more efficient way** of solving them. Trying to rush through the process you've been doing can lead to random calculation errors and silly mistakes, so try to be smart and find a better way. 
-
-> Kind of like side-stepping in a kinetics reaction... The world of chemistry prefers a mechanism with lower activation energy rather than high activation energy that results to the same products...  
-
-
-Another reminder that **every question on the USNCO is worth the same**. This means that you can solve all of the easy questions first and skip the hard ones for later. After you're done, you can try the hard ones. Don't spend too much time on one question; if it takes more than a minute, you should skip it for the very end. With the remaining time, you should check your answers just in case you made any mistakes. And then, you can spend your remaining time attempting the hardest questions.
+This is where you apply your fundamental knowledge to actual competitive Chemistry problems. Every competition is different, so you should read a guide below that is relevant to your situation. However, here are some general tips:
 
 ### Writing Solutions
-After grading many tests from CODS competitions, this is a tip especially for when you're practicing for the Part II exam, or IChO exams.
+After grading many tests from CODS competitions, this is a tip especially relevant if you are solving a free-response problem.
 
-You should think about how you want to present your solution to a problem **before** you start writing. Disregarding this step often leads to a confusing, unorganized solution. Make sure you're writing your solutions neatly, so that the grader can easily understand your solution.
+You should think about how you want to present your solution to a problem **before** you start writing. Disregarding this step often leads to a confusing, unorganized solution. Make sure you're writing your solutions neatly with full sentences, so that the grader can easily understand your solution. Make sure your variables are properly defined so that any educated person can know what you're doing.
 
-Handwriting is also important. You should not be sacrificing legibility for speed. You don't want the grader to confuse your "7" with a "1". Make sure your handwriting is clear. 
-
-In conclusion, even if it takes more time, you should focus on writing your solutions better, as this will ensure you get all of the partial points you possibly can.
-
-### Practicing with Past Exams
-When you're practicing with past exams, it is crucial that you know what you got wrong, but also **why** you got it wrong. You should review your fundamentals, review your thought process, and determine why the other three answer choices are wrong. You learn a lot more from wrong answers than right answers, anyways.
-
-Don't be too obsessed with your score. The score you get on a practice test is absolutely meaningless, especially when you start out. Don't be bummed out because you got a low score, instead you should motivate yourself to become better.
+Make your solutions **clear** and **legible**. Don't let the pressure get to you and make illogical mistakes!
 
 ### More Problem Solving Techniques
 If you're interested in problem solving techniques, *Problems and Solutions in Introductory Mechanics* by David Morin is a fantastic book, especially if you're also interested in competitive physics. 
 
 Of course, the book itself isn't for competitive chemistry students like us, but the problem solving skills included are so valuable. Luckily, you can read most of the problem solving techniques at [Amazon's preview](https://www.amazon.com/Problems-Solutions-Introductory-Mechanics-David/dp/1482086921/ref=sr_1_1?dchild=1&keywords=morin%20physics&qid=1599678550&sr=8-1).
 
-### After You're Done with Local Exams
-If you can comfortably solve local exam questions, then you should definitely step up the level of questions you're attempting. USNCO Part I questions are much more tricky and challenging compared to the Local exam, especially after 2017. You should start with 2012, as the difficulty gap between N2012 (National exam Part I 2012) and L2017 (Local exam 2017) is not enormous.
-
-### Organic Chemistry?
-You might have wondered: why haven't you mentioned organic chemistry yet?
-
-Well, the organic chemistry section on the USNCO is an outlier compared to other topics: the questions themselves tend to be easy, as the content dealt with is in advanced chemistry territory.
-
-This section can be prepared by reading the first twenty chapters of _Organic Chemistry_ by Kleins; it is a lot of reading, but also a very enjoyable book, and I can promise you that you will love it. 
-
-### After You're Done with Part I Exams
-If you can comfortably solve national part I exams and get consistent scores, then it's probably time for you to practice the part II section of the exam. Again, make sure to think about how you're going to present your solution before you start writing.
-
-### The Part III Section
-You can read Allen Ding's guide on the lab section [here](https://docs.google.com/document/d/1uI-AL695yszZqwQxsLmjOanreC-HGHgGCvKvu6b8zs0). 
-
-## Advanced Topics
+## Advanced Knowledge (Optional)
 Recall that you should only be learning these after you have successfully completed the previous two steps.
 
 ### Inorganic Chemistry
@@ -246,8 +218,17 @@ Recall that you should only be learning these after you have successfully comple
 ### Analytical Chemistry
 > ***Harris' Quantiative Chemical Analysis***: For an analytical chemistry textbook, it's a very decent book. It's great practice for advanced calculations (with good practice problems) and is a decent read. 
 
-# Advice for Advanced Participants
----
-You can read llamachemist's guide for advanced participants who can comfortably solve part I and part II sections of the USNCO national exam [here](https://chemistry.isodn.org/guides/5fc28efe7186110017aa4fe0/5fc296147186110017aa5038).
+## Profit
+Ok, if you've made it this for into the guide, first of all, thank you so much for reading this. Months of my colleague's experiences and my own personal experience were combined together to deliver this one heck of a masterpiece guide. 
 
-[^1]: For more information in the role of advanced topics, you should read _the Calculus Trap_ by Richard Rusczyk [here](https://artofproblemsolving.com/news/articles/avoid-the-calculus-trap).
+After you've gotten good at your nation's Chemistry Olympiad, you may wonder, is there any additional steps I can take, such as preparing for the international Chemistry Olympiad, or just trying out more challenging problems?
+
+Question answered. 
+
+[^1]: And no, writing notes with your cram session won't "magically" make you remember everything.
+[^2]: For more information in the role of advanced topics, you should read _the Calculus Trap_ by Richard Rusczyk [here](https://artofproblemsolving.com/news/articles/avoid-the-calculus-trap).
+[^3]: The one exception I can think of (with my limited knowledge) is physics textbooks. In particular, Red Morin and maybe Halliday. 
+[^4]: If your Chemistry Olympiad doesn't have any publicly available practice exams, you can either try out 1) Past exams of Olympiads that are known to be good quality 2) Past exams that have a similar structure to your nation's Chemistry Olympiad competition 3) [Join](https://discord.gg/cf7RN82) our community and ask people who are competing in the same country as you.
+[^5]: It is definitely OK to look at the solution manual when **you are stuck**, and you should (unless you really like a challenge). We are just recommending you not **rely** on the solution manual without giving it a proper shot.
+[^6]:  in very hard Olympiad questions, this might even be necessary to avoid solving insane equations on time
+[^7]: We put advanced topics _after_ problem-solving for many reasons. It is optional because you'll never use it 99% of the time; but we've added it here because these advanced topics are very interesting, especially when you actually have the capability to fully understand it.
