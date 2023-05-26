@@ -1,14 +1,117 @@
 ![](https://i.imgur.com/XvW5HDs.png)
 
-# Preamble
+Hey! Thanks for coming here to give this guide a read. It's been two years since I first posted an introductory guide for CODS, and I was genuinely surprised to see how much impact this guide has made towards newcomers to this community known as "Chemistry Olympiad". Considering this acknowledgement of mine, I thought it would only be responsible for me to update this guide, considering I myself have learned a lot over these past two years and many of the sentimental values I've shared in the past is not ideal. Hence, I've completely revamped the guide, removed some of the parts that may be misleading or outright false, and added some information that can really help you throughout your journey.
+
+Enjoy!
+
+
+# Part 0: Introduction to Competitive Academics
 ---
-Chemistry can be intimidating. As a subject that is a combination of physical sciences, life sciences, and some mathematics, its position as a "central science" makes Competitive Chemistry even more intimidating. 
+Competitive STEM is contradictory. Here's an example.
 
-Surprisingly, being proficient at competitive Chemistry doesn't require you to be a genius. The amount of fundamental knowledge required in the field is much less in comparison to other Science Olympiads, and practice is more than enough to find success in your national exam, while still being a very enjoyable experience.
+A lot of people emphasize that science is a "collaborative" field. This is certainly true, and a fundamental part of the field. Without collaboration, Science could not progress at the speed in which it is currently going. However, that does not mean there is no competition. In fact, there is fierce competition- it's not like you're going to be doing research alone. 
 
-While this guide was written for the general public in mind, we do have specific guides that may be applicable to your situation. After fully reading this guide, we recommend you check them out.
+Parallel investigations are bound to happen, and they are very common. Here's a very recent example in Chemistry: three different groups, the Wendlandt group from MIT, the Knowles group from Princeton, and the Hartwig group from UC Berkeley- all undertook parallel investigations regarding _contra_-Thermodynamic alkene isomerization.[^8] All three groups are run by spectacular principal investigators, and do really beautiful chemistry. Competitive chemistry really highlights both the thrill and terror of having all kinds of people from different backgrounds come together and compete for the same goal- see how far they can go up the ladder. 
 
-There's no time to waste. Let's get started!
+I think chemistry olympiad and all competitive STEM fields share the same spirit, but there's one trap a lot of people competing in these competitions end up falling into. Ignoring the collaboration and embracing the competitive nature. Embracing the individualistic lifestyle. 
+
+This applies to all parts of life. Hobbies, sports, games, etc. It is crucial for your own well being to find a balance between competition and collaboration. Everyone has their own goals, so it is important that you support each other achieve their own goals without giving up your own. Selfish behavior might seem beneficial in the short term, but it will most definitely negatively impact you on the long term. 
+
+Similar to how science progressed at an incredible rate due to the existence of both collaboration and competition, you must also find a good balance between the two in your journey. Do not fall into the toxic mindset that sharing even a small portion your knowledge will only set you at a disadvantage. A mindset that sets competition above all else will make you think that you are better than others, or must be better than your peers. This is a very unhealthy mindset, and often times sets you to a path of straight failure with many "side" traps. As someone who truly struggled with this mindset for the entirety of high school, I highly do not recommend it. Just by having a open mindset, I've personally learned so much in chemistry for the first six months of my freshmen year in college compared to the three years of high school I spent grinding my ass off, reading textbooks and solving USNCO exams alone.
+
+On a similar note, making competitive STEM your character, your personality will also set you up for failure. Let me explain. See if this applies to any of you:
+
+ - [ ] You're on competitive STEM Discord servers constantly and have more online friends than in-person friends.
+ - [ ] You constantly day-dream or talk about how you'll make camp next year and everyone is your enemy.
+ - [ ] You're constantly overwhelmed with unreasonably huge goals that you set for yourself.
+ - [ ] You think you're a different breed from those who don't compete in competitive STEM.
+ - [ ] You're obsessed with getting into MIT (or Caltech, or Harvard).
+ - [ ] You think making camp will get you into MIT.
+ - [ ] You try to humble brag by asking a question in a Discord channel where it's not appropriate in terms of context, or the general skill level.
+ - [ ] You complain about cheaters, the score cutoff, how the competition is run.
+ - [ ] You are arrogant and focused on how you could beat your competitors, rather than focus on how you could improve in the field.
+ - [ ] You idolize campers or international STEM competition medalists.
+
+This is a pretty long, exhaustive list of common pitfalls in terms of competitive STEM. I see a lot of people share these traits on Discord servers, and this really does apply to almost all extracurriculars (ECs): Science Bowl, Quiz Bowl, Science Olympiad, etc.
+
+For those who are just getting into this field, I hope you don't share any of these traits, and don't let these things deter you from this community. There's a lot of amazing people that compete in chemistry Olympiad and it's really a once-in-a-lifetime experience. 
+
+For those who have any of these traits, let me explain why they are a problem in terms of finding success in this field. 
+
+## The Problem
+---
+If you share a lot of the characteristics described above, I have no other way to word this other than you might be pretty unpleasant to talk to from other people's perspectives. Sure, you might not care, but having this personality for three years makes it very hard to fix later on in college life- you'll be lonely and very unapproachable by other people. Once again I'd like to emphasize that Chemistry is a collaborative science, that requires **talking** to your coworkers and other research groups. If you lack mannerisms and keep the arrogant attitude, nobody will want to help you and you're just hurting your chances of actually achieving your goals.
+
+Despite what the modern 21st century might teach you, individualism is a very closed-minded mindset- sure, you might think you can do everything on your own, but this couldn't be further from the truth when it comes to science, in particular. From a high school student's perspective: how could to learn if nobody was there to make the resources, textbooks, and sites to educate you? Thinking you're the "main character" of the entire world will set you up for failure.
+
+ACS (in the context of Chemistry) runs competitive Chemistry with a specific goal in mind. This is within the context of my conversation with Dr. Laura Serbulea, who is the camp mentor for the US team. Chemistry Olympiads' main objective is to allow participants to grow their passion in chemistry so that they can continue on their journey into college and eventually, their academic careers. Surprisingly, most of the achievers in Chemistry Olympiad end up not pursuing a chemistry career after high school- here's some reasons why:
+
+ - **Burnout.** If you invest your everything into Chemistry Olympiad for two or three years, it really does burn you out, especially if you've achieved your main goal (whether that is making camp or making IChO.)
+ - **Feeling Isolated.** A lot of previous competitive chemistry participants are at a much higher starting position compared to other college students who have little prior experience with chemistry. This makes them inclined to take higher-level classes much earlier compared to their peers, and because there's that constant age gap, this can make them feel very lonely and isolated. It's especially easy to fall into a pothole where you aren't sure what you're doing and you are envious of your peers that can "fight through" classes together and make friendships that way.
+ - **Change in environment.** Again, competitive chemistry is very competitive. Going from an extremely competitive environment where everyone is your "enemy" to a collaborative environment where you must undertake projects with your group members is extremely unsettling if you enjoyed the competitiveness.
+
+Let me go back to the checklist and explain why each trait is not great.
+
+ > You're on competitive STEM Discord servers constantly and have more online friends than in-person friends.
+ 
+ This is not a terrible trait- if you really like competitive chemistry, that's fine. But don't constantly sit at home doing chemistry- it both kills quality of your study sessions and your mental health. Go outside, touch grass. Find a hobby- most of the Nobel Prize winners had one. The idolization of those who are constantly at the lab 24/7 and expectations to do so is a serious issue within the scientific community, and its a serious issue within the Chemistry community as well. Don't do it- please have a life.
+
+Having online friends is great and all, but one thing you must be conscious about is that most people find it easier to talk online and not think before talking. This is probably because you can't see the emotions, facial expressions of those on the receiving end, so you don't consider the other person's perspective as much as you would in a offline conversation.
+
+There's people who are toxic online but very quiet offline- don't adapt that attitude. Sometimes, your toxic personality online can affect your real-life conversations and form bad habits.
+
+ > You constantly day-dream or talk about how you'll make camp next year and everyone is your enemy.
+
+Day-dreaming is a waste of time. Talking about how you'll make camp is a waste of time. Everyone is not your enemy, they can be your useful resources. Why would you make it harder for yourself to achieve your goals by making everyone your enemy? Isn't it easier for you to make them like you and let them help you achieve your goals? Of course, not everyone can like you, but it's still better to keep common sense on the board.
+
+If you're going to talk about how you're going to achieve your goals, it's probably better time management to use that time to actually learn about chemistry. Talking like that only increases your ego, which is your greatest enemy (more info below).
+
+> You're constantly overwhelmed with unreasonably huge goals that you set for yourself.
+
+We'll talk about the trap of overplanning later on.
+
+> You think you're a different breed from those who don't compete in competitive STEM.
+
+I think this is a really common trap competitive STEM participants fall into- thinking their special for competing in a competitive STEM competition. I would like to emphasize here that STEM competitions are not your life. Your purpose should not revolve around STEM competitions. This will only last you a maximum of four years, and after graduating high school, nobody will care. Seriously, it might be a conversation starter, but it won't last you for too long.
+
+There are so many amazing people out there doing other things they are passionate about, and yet there's a lot of people doing competitive STEM because they think it'll give them an image of being really smart or whatever. If you have to prove your worth by how others view you, well, I have nothing to tell you.
+
+> You're obsessed with getting into MIT (or Caltech, or Harvard).
+> You think making camp will get you into MIT.
+
+Trying to get into MIT, Caltech, Harvard, or any ivies is extremely difficult when you're applying as an undergraduate student! It's been proven that making camp at USNCO does increase your chances of getting into MIT, but if you have these toxic mindsets, it's very unlikely you'd do well in competitive STEM.. so keep that in mind.
+
+Also, most people only want to apply to these schools for the name value. 
+
+Absolutely, MIT, Harvard, and Princeton have amazing groups that do amazing chemistry, but most students applying to colleges don't have a single idea what the research is about. Learn the necessary knowledge in college to understand the context of the research, and then apply to whatever graduate school interests you most rather than considering the name value of the university.
+
+ - [ ] You try to humble brag by asking a question in a Discord channel where it's not appropriate in terms of context, or the general skill level.
+
+Please don't do this, if you need to inflate your ego please go to a nearby planet fitness gym. (seriously, working out is great for many reasons. I could write another document about this lol)
+
+If you're doing chemistry olympiad for the reputation, just make a new non-profit organization instead. (by the way, if your purpose for opening a NPO is to impress college admissions- this won't work and you're not unique. An admissions officer from MIT have criticized this once in a Science Olympiad award ceremony before, quite a few years ago)
+
+ - [ ] You complain about cheaters, the score cutoff, how the competition is run.
+
+Please worry about improving your chemistry knowledge and ignore the competition when you're taking the exam. It's ok to give criticism if necessary, but if you're not going to tell operations about your problems, it won't be fixed. At that point, you're wasting your time.
+
+ - [ ] You are arrogant and focused on how you could beat your competitors, rather than focus on how you could improve in the field.
+
+Focus on chemistry! Don't think about the other competitors. Consider them your friends that you can learn a thing or two from.
+
+ - [ ] You idolize campers or international STEM competition medalists.
+
+Again, you're wasting your time. If you want to be someone like them, put in the effort.
+
+## The Solution
+---
+The solution is simple. Put in the effort and enjoy the process. I find it distasteful that people continue to emphasize that MIT "likes campers", primarily because it just makes people fall into the trap of thinking that making camp will determine your chance of going into MIT (seriously, I need to have a conversation with the admissions counseling about this issue. I don't think this is their intention, but it's having a massive effect on competitors.) 
+
+Let me emphasize this: **competitive chemistry has no significance.** You not making camp won't end your chemistry career. Actually, making camp has a higher chance of ending your chemistry career (for reasons stated above). Think of whatever you achieve here as a "bonus reward" for the effort you've put into preparing for this competition. 
+
+Consistency, endurance, and open-mindedness are key traits that makes you successful in not only competitive chemistry, but really any field. Work for these traits. Motivation can help start things, but you must have consistency for your progress to last for any significant amount of time. You will never be motivated forever, but being able to endure your temptations to do something else is a key trait that will help you see the light at the end of the tunnel.
+
+Again, have fun, enjoy the process, and don't act like your life depends on competitive chemistry. It'll be a "phase" you go through in high school, and it won't last forever, but all of the training you've done here will most definitely set you up for success in later stages of life. Trust me, even if you decide to become a bodybuilder, or a businessman, the three traits above will benefit you immensely. My responsibility is for you to avoid any bad traits so that you don't have to deal with breaking those habits later in life.
 
 # Part I: Before getting into Competitive Chemistry
 ---
@@ -34,6 +137,8 @@ Competitive Chemistry should be a fun experience, not a painful one. Do yourself
 ### 2. Do NOT overplan
 Overworking and Overplanning are the two sins of Competitive Science. Overplanning is the act of planning what you'd do in the future (e.g. in 3 weeks). I and many others have tried out this strategy in the past (especially during summer breaks) and it has caused more harm than anything. Please keep in mind that humans can't foresee the future, and you never know if some concept will cause you trouble or get hit by a car. It is **absolutely crucial** that you don't overplan, as once you fall behind, you'll never be able to catch up and end up being demotivated. 
 
+Remember, your life does not revolve around competitive chemistry. Competitive chemistry is only one aspect of your life and should not be the only thing going in your life. Make sure your priorities are in check, and make sure to spend quality time with your loved ones as well.
+
 ### 3. Do NOT read college textbooks for Competitive Chemistry
 If Overworking and Overplanning are the two sins of Competitive Science, then reading college textbooks is the grave sin of competitive Chemistry. This is **crucial** advice that everyone tends to ignore, so we'll repeat this many times.
 
@@ -52,12 +157,12 @@ You'll need a strong foundational knowledge of the fundamentals to utilize what 
 ### 4. Do NOT focus on textbooks
 While preparing an school exam likely consists of doing some textbook problems, competitive Chemistry questions tend to be **much more challenging** than textbook problems (at least, in Chemistry[^3]). While it is completely fine to review your fundamental knowledge through these textbook problems (and you should!), please avoid solving every single exercise and homework problem, as: 1) they'll get boring, 2) you'd be practicing plug-and-chug which is acceptable in an academic setting but **unacceptable** in an Olympiad setting, and 3) you'll be more vulnerable towards falling into deliberate tricks present in some Chemistry Olympiad problems.
 
+Yes, muscle memory is a real thing, so it's important you always keep your radar on so that you don't make any silly mistakes.
+
 ### 5. Try to utilize all kinds of resources
 A textbook isn't always the best place to learn, and this is especially true if your Chemistry Olympiad competition has specific "Advanced Topics" present that may be absent from the fundamental knowledge I've addressed multiple times above. 
 
 The best place to learn these topics are through our guides (work-in-progress), online lectures, [ChemGuide](https://www.chemguide.co.uk/), Wikipedia, etc. 
-
-> **Note:** We are working on providing guides, notes, lectures, and practice problems for these "Advanced Topics", so stay tuned :^)
 
 ### 6. Don't be afraid
 You know what's more scary than bombing your first exam? Not taking enough practice exams and bombing your real competition. It sucks, so don't do it. 
@@ -176,8 +281,13 @@ With numerous amounts of open educational resources, there are many choices to c
 
 ### Taking Notes
 
-Notes are a preference— you should take them if you’re used to taking them. If you do take notes, however, make sure you actually use them for review! If you don’t, the extra time spent on those notes would be meaningless. The [CODSnotes](http://chem.isodn.org/notes) written by myself are an alternative to taking notes on Atkin's *Chemical Principles*.  
+> Notes are a preference— you should take them if you’re used to taking them. If you do take notes, however, make sure you actually use them for review! If you don’t, the extra time spent on those notes would be meaningless. The [CODSnotes](http://chem.isodn.org/notes) written by myself are an alternative to taking notes on Atkin's *Chemical Principles*.  
 
+So this is what I've said previously, but I will make this clear right now.
+
+If you are able to use notes properly, they will significantly benefit you. I can't go into too much detail, but when taking notes, make sure you are able to prioritize information when reading through a textbook. A good textbook will emphasize which is crucial knowledge (**fundamentals**) and which is trivial. On your first read, make things simple and only write down the main points. That way, when you come back to it (which you should frequently), you won't be overwhelmed with information.
+
+On your second read, you can pick up those less important trivial facts and put them in your notes so that you can differentiate what is more important than the other.
 
 ### OK, so I've read Atkins.
 Congratulations! You know more chemistry than 99% of people in the world! Give yourself a pat in the back.
@@ -197,6 +307,7 @@ Make your solutions **clear** and **legible**. Don't let the pressure get to you
 If you're interested in problem solving techniques, *Problems and Solutions in Introductory Mechanics* by David Morin is a fantastic book, especially if you're also interested in competitive physics. 
 
 Of course, the book itself isn't for competitive chemistry students like us, but the problem solving skills included are so valuable. Luckily, you can read most of the problem solving techniques at [Amazon's preview](https://www.amazon.com/Problems-Solutions-Introductory-Mechanics-David/dp/1482086921/ref=sr_1_1?dchild=1&keywords=morin%20physics&qid=1599678550&sr=8-1).
+
 
 ## Advanced Knowledge (Optional)
 Recall that you should only be learning these after you have successfully completed the previous two steps.
@@ -232,3 +343,4 @@ Question answered.
 [^5]: It is definitely OK to look at the solution manual when **you are stuck**, and you should (unless you really like a challenge). We are just recommending you not **rely** on the solution manual without giving it a proper shot.
 [^6]:  in very hard Olympiad questions, this might even be necessary to avoid solving insane equations on time
 [^7]: We put advanced topics _after_ problem-solving for many reasons. It is optional because you'll never use it 99% of the time; but we've added it here because these advanced topics are very interesting, especially when you actually have the capability to fully understand it.
+[^8]: search it up on google.
